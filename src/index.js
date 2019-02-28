@@ -1,0 +1,2 @@
+// ok
+alert('Hey World!!');
